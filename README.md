@@ -24,8 +24,8 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzaktas&show_icons=true&locale=en&layout=compact" alt="yavuzaktas" /></p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=YavuzAktas&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+<br/>  
 </a>
 
