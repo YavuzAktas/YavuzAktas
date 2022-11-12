@@ -5,7 +5,7 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://spotify-github-profile.vercel.app/api/view?uid=3153xlgqkbnvuote6zt4ekzzlbua&cover_image=true&theme=default&show_offline=false&background_color=121212" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -29,10 +29,3 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzaktas&show_icons=true&locale=en&layout=compact" alt="yavuzaktas" /></p>
 </a>
 
-<br>
-
-###  🚀Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153xlgqkbnvuote6zt4ekzzlbua&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
