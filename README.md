@@ -14,7 +14,7 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YavuzAktas?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/yavuznaktas/)
-- 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/yavuznaktas/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1x7pOONONEZO0v_Ns2Q2AeEB7qG5Z4mv4/view?usp=sharing)
 <br>
 
 ### 🔨 Languages and Tools:
@@ -26,10 +26,13 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzaktas&show_icons=true&locale=en&layout=compact" alt="yavuzaktas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzaktas&show_icons=true&locale=en" alt="yavuzaktas" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzaktas&show_icons=true&locale=en&layout=compact" alt="yavuzaktas" /></p>
 </a>
+
+<br>
+
+###  🚀Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3153xlgqkbnvuote6zt4ekzzlbua&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
