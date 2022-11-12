@@ -9,7 +9,7 @@ I am App Developer 📱, Java Developer 💻and beginner level Designer 🎨. I 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Eltresis Technology & Consulting**
+- 🔭 &nbsp; I’m currently working at **Eltresis Technology & Consulting**
 - 🌱 &nbsp; I’m currently learning Swiftt; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YavuzAktas?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
